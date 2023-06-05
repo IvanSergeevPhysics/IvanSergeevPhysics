@@ -5,7 +5,7 @@
 - [Math & python for data analysis](https://coursera.org/share/a2c321bfb2a824a86950f151d950f04d) (by MIPT & Yandex)
 - [Training on labeled data](https://coursera.org/share/0f61eedeba939afeac4dcadc3a17826c) (by MIPT & Yandex)
 - [Machine learning for applied tasks](https://mail.google.com/mail/u/0?ui=2&ik=e29c67a6e0&attid=0.1&permmsgid=msg-f:1756001397118868277&th=185e91f78c5c1b35&view=att&disp=inline) (by MSU)
-- [Neural networks and their application in scientific research] (by MSU)
+- Neural networks and their application in scientific research (by MSU)
 
 ## Pets:
 - [Tg bot for graphs](https://github.com/IvanSergeevPhysics/graph-plotter-bot)
