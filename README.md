@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi, I’m Ivan Sergeev
 ## I’m computer vision, ML engineer and python-developer.
 
