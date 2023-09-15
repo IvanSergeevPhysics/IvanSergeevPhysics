@@ -1,6 +1,10 @@
 # Hi, I’m Ivan Sergeev
 ## I’m computer vision, ML engineer and python-developer.
 
+## I’m currently working on
+- Text recognintion for my tg bot
+- Modeling the interaction of solar radiation with vegetation elements using the Monte Carlo method
+
 ## Courses:
 - [Math & python for data analysis](https://coursera.org/share/a2c321bfb2a824a86950f151d950f04d) (by MIPT & Yandex)
 - [Training on labeled data](https://coursera.org/share/0f61eedeba939afeac4dcadc3a17826c) (by MIPT & Yandex)
